@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shankarprabha
-- 👀 I’m interested in Programming, DSA etc.
-- 🌱 I’m currently learning Python and DSA.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML & CSS.
 
 
 <!---
