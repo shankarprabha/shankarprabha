@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shankarprabha
+- 👋 Hi, I’m Prabha Shankar
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML & CSS.
+- 🌱 I’m currently learning HTML, CSS & JS.
 
 
 <!---
